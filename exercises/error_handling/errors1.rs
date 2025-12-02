@@ -31,7 +31,7 @@ mod tests {
             Ok("Hi! My name is Beyoncé".into())
         );
     }
-
+    
     #[test]
     fn explains_why_generating_nametag_text_fails() {
         assert_eq!(
